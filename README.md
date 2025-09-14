@@ -39,11 +39,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repository:
     ```bash
-    git clone [your-repo-link]
+    git clone https://github.com/AhmedAbdoDev/Markdown-Editor.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd [your-project-name]
+    cd Markdown-Editor
     ```
 3.  Install the dependencies:
     ```bash
@@ -57,7 +57,7 @@ To get a local copy up and running, follow these simple steps.
     # or
     yarn dev
     ```
-5.  Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) in your browser to see the result.
+5.  Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 -----
 
